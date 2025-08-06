@@ -1,0 +1,23 @@
+{
+  "name": "ts_npm_buildtoolchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ace-widgets": "999.0.0",
+    "vite-ts-icon":"1.0.0",
+    "g2plot-geo-world-map":"*",
+    "handlebars": "4.0.14",
+    "minimist": "1.2.5",
+    "lodash": "4.17.4",
+    "extend": "3.0.0",
+    "jcr-hopper":"999.0.0",
+    "component-detection":"1.0.0"
+  }
+}
