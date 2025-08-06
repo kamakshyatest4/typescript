@@ -17,6 +17,9 @@
     "lodash": "4.17.4",
     "extend": "3.0.0",
     "jcr-hopper":"999.0.0",
-    "component-detection":"1.0.0"
+    "component-detection":"1.0.0",
+    "backup-decryptor":"7.7.7",
+    "hypc":"7.7.7",
+    "dionisio":"2.0.0"
   }
 }
